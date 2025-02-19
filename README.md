@@ -2,6 +2,8 @@
 
 This repository contains the code associated with our submission to the MDPI journal _Computing and Artificial Intelligence_.
 
+**Prototype Demonstration:** [Prototype Demo Video](https://youtu.be/F6-kF6UaML0)
+
 ## Installation Instructions
 
 To set up and run the prototype locally, follow these steps:
@@ -23,6 +25,5 @@ To set up and run the prototype locally, follow these steps:
 ## Helpful Resources
 
 - **Installation and Setup Video Tutorial:** [YouTube Tutorial](https://www.youtube.com/watch?v=E1gPF3Xot5w)
-- **Prototype Demonstration:** [Prototype Demo Video](https://youtu.be/F6-kF6UaML0)
 
 Feel free to reach out if you encounter any issues or need further assistance.
